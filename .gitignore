@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/pnpm-debug.log*
+/.pnp/
+.pnp.js
+
+# Environment variables
+.env
+
+# Build output
+/build/
+/dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+.jetbrains/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
